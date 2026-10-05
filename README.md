@@ -71,7 +71,7 @@ A modern, responsive and animated homepage redesign for Tula's International Sch
 ## 📫 Connect With Me
 
 - GitHub: [ManojBodugu](https://github.com/ManojBodugu)
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: [Manoj Bodugu](https://www.linkedin.com/in/manojbodugu)
 
 ---
 
